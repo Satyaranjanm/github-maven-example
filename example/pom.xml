@@ -23,9 +23,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/kevinsawicki/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+		<url>https://github.com/Satyaranjanm/Practice.git</url>
+		<connection>scm:git:git://github.com/Satyaranjanm/Practice.git</connection>
+		<developerConnection>scm:git:git@github.com/Satyaranjanm/Practice.git</developerConnection>
 	</scm>
 
 	<developers>
